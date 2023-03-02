@@ -1,0 +1,89 @@
+
+nav li {
+    display: inline;
+    margin: 30px;
+    text-align: center;
+    list-style-position: inside;
+    
+    
+}
+
+nav {
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+    
+    
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+ol li {
+    text-align: center;
+    list-style-position: inside;
+    
+    
+}
+
+
+ol img {
+    margin-bottom: 20px;
+}
+
+
+
+a {
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+
+
+
+
+.isim {
+    text-align: center;
+    color: rgb(160, 7, 7);
+    
+}
+
+.meslek {
+    text-align: center;
+    padding-bottom: 70px;
+    font-style: italic;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius:  50px;
+}
+
+p {
+    
+    text-align: center;
+}
+
+#thanks {
+    font-size: 100px;
+    font-family: 'Explora'
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: Montserrat;
+    
+}
+#contact{
+    width: 100%;
+    text-align: center;
+}
+#sm{
+    margin-left: 10px;
+}
